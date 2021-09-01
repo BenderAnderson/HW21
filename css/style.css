@@ -1,0 +1,105 @@
+*, html, body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.header{
+display: flex;
+justify-content: space-around;
+color: black;
+width: 100%;
+height: 60px;
+position: fixed;
+background-color: white;
+align-items: center;
+}
+.headerNav ul{
+    display: flex;
+    color: black;
+}
+.headerLogo{
+/* width: 62px; */
+height: 16px;
+margin: auto;
+padding-right: 200px;
+}
+.s1{
+    width: 100%;
+    height: 500px;
+    margin:  auto;
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+}
+.btnS1{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.s2{
+    width: 100%;
+    height: 181px;
+}
+.s1navMenu{
+    text-decoration: none;
+    list-style: none;
+    padding-left: 20px;
+}
+.s1navMenu ul{
+    width: 70%;
+    height: 40px;
+    text-decoration: none;
+    list-style: none;
+    margin: auto;
+    margin-top: 50px;
+}
+.s3{
+    width: 100%;
+    height: 794px;
+margin: auto;
+}
+.s3 img{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-top: 45px;
+}
+.s4{
+    width: 1110px;
+    height: 500px;
+    margin: auto;
+}
+.s5{
+    width: 100%;
+    height: 212px;
+}
+.s6{
+    width: 100%;
+    height: 726px;
+}
+.s6box{
+    width: 70%;
+    height: 726px;
+    margin: auto;
+}
+.priceBox{
+    width: 350px;
+    height: 528px;
+    border: 1px solid #E8E8E8;
+margin: auto;
+padding: 30px 30px 0 30px;
+}
+.price{
+    width: 164px;
+    height: 60px;
+}
+.s7{
+    width: 100%;
+    height: 216px;
+    margin: auto;
+}
+.footer{
+    width: 100%;
+    height: 160px;
+}
+

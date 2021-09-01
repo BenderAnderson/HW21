@@ -1,0 +1,21 @@
+.flSb{
+display: flex;
+justify-content: space-between;
+}
+.flSa{
+    display: flex;
+    justify-content: space-around;
+}
+.flCenter{
+    display: flex;
+    justify-content: center;
+}
+.flRevers{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.flFdRow{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+}
